@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @YinglongCao/st4rb0y.
 - 👀 I’m interested in Ciber Security, Coding...
-- 🌱 I’m currently learning Web Security & C++.
+- 🌱 I’m currently learning Web Security & Golang.
 - 📫 My blog: https://ylcao.top
